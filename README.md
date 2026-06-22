@@ -85,4 +85,5 @@ The dataset contains:
 ---
 
 ## Dashboard Preview
-(Add screenshots inside screenshots folder)
+<img width="803" height="362" alt="dashboard" src="https://github.com/user-attachments/assets/048e775a-694c-4cc1-a6e7-22e8977ff684" />
+
